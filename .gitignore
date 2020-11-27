@@ -1,0 +1,12 @@
+# binaries
+bin/
+# python cache
+__pycache__/
+# Compiled Python bytecode
+*.py[cod]
+# Log files
+*.log
+# MacOS
+.DS_Store
+# Windows
+Thumbs.db
